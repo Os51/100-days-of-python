@@ -25,6 +25,7 @@ For the operators on the same line, the calculation most to the left is evaluate
 * / - Multiplication and Division are equal in priority. LR applies.
 + - - Addition and Subtraction are equal in priority. LR applies.
 """ 
+# -----------------------------------------------------------------------------------------
 
 print(3 * 3 + 3 / 3 - 3)
 """ 
@@ -35,6 +36,8 @@ Step into this code, this is how the calculation happens
 10.0 - 3
 Answer: 7.0
 """
+
+# -----------------------------------------------------------------------------------------
 
 # If we want to change the answer to 3
 print(3 * (3 + 3) / 3 - 3)
