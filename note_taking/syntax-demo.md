@@ -2,7 +2,7 @@
 
 ## Functions
 - Defining a "test" function.
-    - Functions can be defined using "def (name of function)
+    - Functions can be defined using "def (name of function)"
 - Anything indented after the definition is considered to be part of the function
 
 ```python
