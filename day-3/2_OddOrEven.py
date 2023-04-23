@@ -27,3 +27,11 @@ if number_to_check % 2 != 0:
     print("This is an odd number.")
 else:
     print("This is an even number.")
+
+
+""" This is also a valid solution:
+if number_to_check % 2 == 0:
+    print("This is an even number.")
+else:
+    print("This is an odd number.")
+"""
